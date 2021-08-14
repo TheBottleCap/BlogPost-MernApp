@@ -1,7 +1,4 @@
 # BlogPost-MernApp
-My first Full Stack Mern App
-.
-.
-.
-.
-U can change css and styling as per your wish. This is just for the learning purpose.
+This is BlogPost. An alternative to ToDo List app.
+This is made using MERN Stack.
+Feel free to contribute.
